@@ -53,10 +53,10 @@ client.createPayment(15000).then(console.log)
 ├── package.json
 ├── src
 │   └── index.ts
-├── test
 ├── tsconfig.cjs.json
 ├── tsconfig.esm.json
 └── tsconfig.json
 ```
 
 Support: CommonJS, ES Module, TypeScript
+
